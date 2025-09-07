@@ -12,6 +12,8 @@ o	Division
 3.  Displays the results of each operation on the screen.
  Expected Output:
 The output should include the result of each operation performed, for example:
+<img width="840" height="207" alt="image" src="https://github.com/user-attachments/assets/3a5e3cbe-95c3-48ef-9805-181980208ec3" />
+
  
 Task 2: Create a Personalized Greeting
 Problem Statement: Write a Python program that:
